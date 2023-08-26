@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* background-color:; */
+    height: 100vh;
+}
+/* // <!-- By haroon Khanday  --> */
+
+#ball{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: relative;
+    top:45vh;
+    left:45vh;
+}
+/* // <!-- By haroon Khanday  --> */
